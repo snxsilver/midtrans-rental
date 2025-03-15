@@ -14,4 +14,4 @@ How to install:
 5. Setting Midtrans Connection through .env
 6. Run php artisan migrate
 7. Run php artisan db:seed
-8. Enjoy the app
+8. Enjoy the app :)
